@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>AAA</title>
+	<title>Triple AAA</title>
 </head>
 <body>
 <h1>second chance</h1>
